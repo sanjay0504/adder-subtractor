@@ -1,0 +1,9 @@
+module adder_subtractor(
+	input [3:0]a,b,
+	input c_in,
+	output [3:0]out,
+	output c_out);
+
+	
+	
+endmodule
